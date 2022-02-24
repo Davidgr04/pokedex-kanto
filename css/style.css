@@ -1,0 +1,91 @@
+.index {
+    background-image: url("../img/kanto-map.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Quintessential', cursive;
+}
+
+.index a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1px;
+    border-radius: 1px;
+}
+
+img {
+    width: 35%;
+}
+
+
+/* ditto.html */
+
+.ditto {
+    background-color: rgba(0, 207, 214, 0.397);
+    font-family: 'Quintessential', cursive;
+}
+
+.ditto a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+img {
+    width: 40%;
+}
+
+span {
+    background-color: grey;
+    padding: 2px;
+    border-radius: 5px;
+    color: white;
+}
+
+#enlace {
+    text-align: center;
+}
+
+
+/* dragonite.html */
+
+.dragonite {
+    font-family: 'Quintessential', cursive;
+    background-color: rgba(0, 207, 214, 0.397);
+}
+
+.dragonite a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+#tipo1 {
+    background-color: purple;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+#tipo2 {
+    background-color: grey;
+    padding: 2px;
+    border-radius: 5px;
+    color: white;
+}
+
+#enlace {
+    text-align: center;
+}
